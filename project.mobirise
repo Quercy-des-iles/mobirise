@@ -773,11 +773,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1295.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgColor": "#d5d3bf",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#ffffff"
