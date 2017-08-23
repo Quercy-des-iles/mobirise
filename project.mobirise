@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Accueil",
+    "currentPage": "Le domaine",
     "name": "Quercy des îles",
     "theme": {
       "name": "mobirise3",
@@ -775,11 +775,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/suivez-nous-2000x1583.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1295.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.4",
             "overlayColor": "#ffffff"
           },
           "text": "Suivez-nous",
